@@ -1,3 +1,4 @@
+
 body {
 	text-align: center;
 	background-color: #CCCCCC;
@@ -5,7 +6,11 @@ body {
 	background-repeat: no-repeat;
 }
 
-h1, h2, h3, p {
+h1 {
+	color: #32cd32;
+}
+
+h2, h3, p {
 	color: #FFFFFF;
 }
 
@@ -29,3 +34,7 @@ h1, h2, h3, p {
 	background: url(../images/mike.gif) no-repeat;
 }
 */
+
+hr {
+	color: #000000;
+}
